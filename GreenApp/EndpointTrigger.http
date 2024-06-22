@@ -1,0 +1,8 @@
+POST https://localhost:7075/DeleteListing
+Authorization: Bearer MjAyNC0wNS0yMiAxMzoxNToxOSoyNypBZG1pbg==
+
+Content-Type: application/json
+
+{
+  "listingId": 44
+}

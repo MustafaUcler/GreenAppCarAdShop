@@ -1,0 +1,6 @@
+@GreenApp_HostAddress = http://localhost:5081
+
+GET {{GreenApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
